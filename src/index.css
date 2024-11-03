@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities; 
+
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Karla:ital,wght@0,200..800;1,200..800&family=Oswald:wght@200..700&display=swap');
+ 
+* {
+  font-family: 'Karla', sans-serif;
+}
